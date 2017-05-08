@@ -1,0 +1,19 @@
+D:\BackUpApp\my_emguCV_TST\my_emguCV_TST\bin\Debug\Emgu.CV.UI.dll
+D:\BackUpApp\my_emguCV_TST\my_emguCV_TST\bin\Debug\Emgu.CV.World.dll
+D:\BackUpApp\my_emguCV_TST\my_emguCV_TST\bin\Debug\Emgu.CV.UI.pdb
+D:\BackUpApp\my_emguCV_TST\my_emguCV_TST\bin\Debug\Emgu.CV.World.pdb
+D:\BackUpApp\my_emguCV_TST\my_emguCV_TST\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+D:\BackUpApp\my_emguCV_TST\my_emguCV_TST\obj\Debug\DR. Vision.csproj.GenerateResource.Cache
+D:\BackUpApp\my_emguCV_TST\my_emguCV_TST\obj\Debug\DR.Vision_nm.Login.resources
+D:\BackUpApp\my_emguCV_TST\my_emguCV_TST\obj\Debug\DR.Vision_nm.SetUP.resources
+D:\BackUpApp\my_emguCV_TST\my_emguCV_TST\bin\Debug\DR. Vision.exe.config
+D:\BackUpApp\my_emguCV_TST\my_emguCV_TST\bin\Debug\DR. Vision.exe.manifest
+D:\BackUpApp\my_emguCV_TST\my_emguCV_TST\bin\Debug\DR. Vision.application
+D:\BackUpApp\my_emguCV_TST\my_emguCV_TST\bin\Debug\DR. Vision.exe
+D:\BackUpApp\my_emguCV_TST\my_emguCV_TST\bin\Debug\DR. Vision.pdb
+D:\BackUpApp\my_emguCV_TST\my_emguCV_TST\obj\Debug\DR. Vision.exe.manifest
+D:\BackUpApp\my_emguCV_TST\my_emguCV_TST\obj\Debug\DR. Vision.application
+D:\BackUpApp\my_emguCV_TST\my_emguCV_TST\obj\Debug\DR. Vision.exe
+D:\BackUpApp\my_emguCV_TST\my_emguCV_TST\obj\Debug\DR. Vision.pdb
+D:\BackUpApp\my_emguCV_TST\my_emguCV_TST\obj\Debug\my_emguCV_TST.Properties.Resources.resources
+D:\BackUpApp\my_emguCV_TST\my_emguCV_TST\obj\Debug\my_emguCV_TST.Form1.resources

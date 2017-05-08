@@ -1,0 +1,35 @@
+D:\BackUpApp\my_emguCV_TST\my_emguCV_TST\bin\x86\Debug\DR. Vision.exe.config
+D:\BackUpApp\my_emguCV_TST\my_emguCV_TST\bin\x86\Debug\DR. Vision.exe
+D:\BackUpApp\my_emguCV_TST\my_emguCV_TST\bin\x86\Debug\DR. Vision.pdb
+D:\BackUpApp\my_emguCV_TST\my_emguCV_TST\bin\x86\Debug\Emgu.CV.UI.dll
+D:\BackUpApp\my_emguCV_TST\my_emguCV_TST\bin\x86\Debug\Emgu.CV.World.dll
+D:\BackUpApp\my_emguCV_TST\my_emguCV_TST\bin\x86\Debug\Emgu.CV.UI.pdb
+D:\BackUpApp\my_emguCV_TST\my_emguCV_TST\bin\x86\Debug\Emgu.CV.World.pdb
+D:\BackUpApp\my_emguCV_TST\my_emguCV_TST\bin\x86\Debug\zh-CN\Emgu.CV.UI.resources.dll
+D:\BackUpApp\my_emguCV_TST\my_emguCV_TST\obj\x86\Debug\DR. Vision.csproj.GenerateResource.Cache
+D:\BackUpApp\my_emguCV_TST\my_emguCV_TST\obj\x86\Debug\DR. Vision.exe
+D:\BackUpApp\my_emguCV_TST\my_emguCV_TST\obj\x86\Debug\DR. Vision.pdb
+D:\BackUpApp\my_emguCV_TST\my_emguCV_TST\obj\x86\Debug\DR. Vision.csprojResolveAssemblyReference.cache
+D:\BackUpApp\my_emguCV_TST\my_emguCV_TST\bin\x86\Debug\DR. Vision.exe.manifest
+D:\BackUpApp\my_emguCV_TST\my_emguCV_TST\bin\x86\Debug\DR. Vision.application
+D:\BackUpApp\my_emguCV_TST\my_emguCV_TST\obj\x86\Debug\DR. Vision.exe.manifest
+D:\BackUpApp\my_emguCV_TST\my_emguCV_TST\obj\x86\Debug\DR. Vision.application
+D:\BackUpApp\my_emguCV_TST\my_emguCV_TST\obj\x86\Debug\my_emguCV_TST.Form1.resources
+D:\BackUpApp\my_emguCV_TST\my_emguCV_TST\obj\x86\Debug\my_emguCV_TST.Properties.Resources.resources
+D:\BackUpApp\my_emguCV_TST\my_emguCV_TST\obj\x86\Debug\my_emguCV_TST.SetUP.resources
+C:\Users\nemanja.isajlovic\Desktop\Nemanja\my_emguCV_TST\my_emguCV_TST\bin\x86\Debug\DR. Vision.exe.config
+C:\Users\nemanja.isajlovic\Desktop\Nemanja\my_emguCV_TST\my_emguCV_TST\obj\x86\Debug\DR. Vision.exe
+C:\Users\nemanja.isajlovic\Desktop\Nemanja\my_emguCV_TST\my_emguCV_TST\obj\x86\Debug\DR. Vision.pdb
+C:\Users\nemanja.isajlovic\Desktop\Nemanja\my_emguCV_TST\my_emguCV_TST\obj\x86\Debug\my_emguCV_TST.Form1.resources
+C:\Users\nemanja.isajlovic\Desktop\Nemanja\my_emguCV_TST\my_emguCV_TST\obj\x86\Debug\my_emguCV_TST.Properties.Resources.resources
+C:\Users\nemanja.isajlovic\Desktop\Nemanja\my_emguCV_TST\my_emguCV_TST\obj\x86\Debug\my_emguCV_TST.SetUP.resources
+C:\Users\nemanja.isajlovic\Desktop\Nemanja\my_emguCV_TST\my_emguCV_TST\obj\x86\Debug\DR. Vision.csproj.GenerateResource.Cache
+C:\Users\nemanja.isajlovic\Desktop\Nemanja\my_emguCV_TST\my_emguCV_TST\bin\x86\Debug\DR. Vision.exe.manifest
+C:\Users\nemanja.isajlovic\Desktop\Nemanja\my_emguCV_TST\my_emguCV_TST\bin\x86\Debug\DR. Vision.application
+C:\Users\nemanja.isajlovic\Desktop\Nemanja\my_emguCV_TST\my_emguCV_TST\bin\x86\Debug\DR. Vision.exe
+C:\Users\nemanja.isajlovic\Desktop\Nemanja\my_emguCV_TST\my_emguCV_TST\bin\x86\Debug\DR. Vision.pdb
+C:\Users\nemanja.isajlovic\Desktop\Nemanja\my_emguCV_TST\my_emguCV_TST\obj\x86\Debug\DR. Vision.exe.manifest
+C:\Users\nemanja.isajlovic\Desktop\Nemanja\my_emguCV_TST\my_emguCV_TST\obj\x86\Debug\DR. Vision.application
+C:\Users\nemanja.isajlovic\Desktop\Nemanja\my_emguCV_TST\my_emguCV_TST\obj\x86\Debug\my_emguCV_TST.MessageBoxBad.resources
+C:\Users\nemanja.isajlovic\Desktop\Nemanja\my_emguCV_TST\my_emguCV_TST\obj\x86\Debug\my_emguCV_TST.WelcomeScr.resources
+C:\Users\nemanja.isajlovic\Desktop\Nemanja\my_emguCV_TST\my_emguCV_TST\obj\x86\Debug\DR. Vision.csprojResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+D:\BackUpApp\my_emguCV_TST\my_emguCV_TST\bin\x86\Debug\my_emguCV_TST.exe.config
+D:\BackUpApp\my_emguCV_TST\my_emguCV_TST\bin\x86\Debug\my_emguCV_TST.exe
+D:\BackUpApp\my_emguCV_TST\my_emguCV_TST\bin\x86\Debug\my_emguCV_TST.pdb
+D:\BackUpApp\my_emguCV_TST\my_emguCV_TST\bin\x86\Debug\Emgu.CV.UI.dll
+D:\BackUpApp\my_emguCV_TST\my_emguCV_TST\bin\x86\Debug\Emgu.CV.World.dll
+D:\BackUpApp\my_emguCV_TST\my_emguCV_TST\bin\x86\Debug\Emgu.CV.UI.pdb
+D:\BackUpApp\my_emguCV_TST\my_emguCV_TST\bin\x86\Debug\Emgu.CV.World.pdb
+D:\BackUpApp\my_emguCV_TST\my_emguCV_TST\bin\x86\Debug\zh-CN\Emgu.CV.UI.resources.dll
+D:\BackUpApp\my_emguCV_TST\my_emguCV_TST\obj\x86\Debug\my_emguCV_TST.csprojResolveAssemblyReference.cache
+D:\BackUpApp\my_emguCV_TST\my_emguCV_TST\obj\x86\Debug\my_emguCV_TST.Form1.resources
+D:\BackUpApp\my_emguCV_TST\my_emguCV_TST\obj\x86\Debug\my_emguCV_TST.Properties.Resources.resources
+D:\BackUpApp\my_emguCV_TST\my_emguCV_TST\obj\x86\Debug\my_emguCV_TST.csproj.GenerateResource.Cache
+D:\BackUpApp\my_emguCV_TST\my_emguCV_TST\obj\x86\Debug\my_emguCV_TST.exe
+D:\BackUpApp\my_emguCV_TST\my_emguCV_TST\obj\x86\Debug\my_emguCV_TST.pdb
